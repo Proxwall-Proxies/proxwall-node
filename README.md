@@ -49,7 +49,7 @@ Below will describe a comprehensive guide to install ProxWall on Linux machines.
 To clone the repository, simply run the following command:
 
 ```sh
-$ git clone https://github.com/titaniumnetwork-dev/paid-proxy-server --recursive
+$ git clone https://github.com/Proxwall-Proxies/paid-proxy-server.git --recursive
 ```
 
 The `--recursive` flag will clone the repository and all submodules.
